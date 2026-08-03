@@ -1,0 +1,1 @@
+var e=`/assets/parchment-DR13ehof.png`;export{e as t};
