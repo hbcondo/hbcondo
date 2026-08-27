@@ -1,0 +1,1 @@
+import{G as e,U as t,r as n}from"./link-BskDqhyN.js";function r(e={}){if(e.isNotFound=!0,e.throw)throw e;return e}function i(e){return e?.isNotFound===!0}var a=e(t(),1);function o(e){let t=n();return a.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as n,r,o as t};
