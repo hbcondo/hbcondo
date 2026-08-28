@@ -1,0 +1,1 @@
+import{s as e}from"./link-BskDqhyN.js";import{t}from"./journal-archive-B8yj5OCE.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
