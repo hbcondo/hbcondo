@@ -1,0 +1,1 @@
+import{s as e}from"./link-BskDqhyN.js";import{r as t}from"./useNavigate-DVBET5Md.js";import{t as n}from"./index-DyQPCqzy.js";import{t as r}from"./journal-archive-DrRirO8A.js";var i=e();function a(){let{tag:e}=n.useParams(),a=Number(e);if(/^\d+$/.test(e)){if(a<2)throw t();return(0,i.jsx)(r,{page:a})}return(0,i.jsx)(r,{selectedTagSlug:e,paginate:!1})}export{a as component};
