@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest Updates from AmarKota.com</title>
+    <link>https://www.amarkota.com/journal</link>
+    <description>A collection of articles and resources saved by Amar Kota.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2026 18:50:28 GMT</lastBuildDate>
+    <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shutting down our public encrypted DNS</title>
+      <link>https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</link>
+      <guid isPermaLink="true">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</guid>
+      <pubDate>Fri, 04 Sep 2026 18:50:28 GMT</pubDate>
+      <category>Infrastructure</category>
+    </item>
+    <item>
+      <title>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</title>
+      <link>https://armature.tech/blog/which-tools-coding-agents-install</link>
+      <guid isPermaLink="true">https://armature.tech/blog/which-tools-coding-agents-install</guid>
+      <pubDate>Thu, 03 Sep 2026 21:20:34 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Ambient CSS v3 – Blender meets CSS</title>
+      <link>https://ambientcss.vercel.app/</link>
+      <guid isPermaLink="true">https://ambientcss.vercel.app/</guid>
+      <pubDate>Tue, 01 Sep 2026 15:35:11 GMT</pubDate>
+      <category>Web Development</category>
+    </item>
+    <item>
+      <title>I turned my security cameras into an automatic bird identification system</title>
+      <link>https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</link>
+      <guid isPermaLink="true">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</guid>
+      <pubDate>Mon, 31 Aug 2026 16:47:11 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Autism mutations drive neurodevelopmental pathology</title>
+      <link>https://www.science.org/doi/10.1126/science.ady4523</link>
+      <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady4523</guid>
+      <pubDate>Thu, 27 Aug 2026 18:23:43 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Oura ring misleads consumers about sleep-tracking accuracy</title>
+      <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</guid>
+      <pubDate>Fri, 21 Aug 2026 16:23:18 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Good Results when training Qwen 3 4B to learn a new domain</title>
+      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
+      <guid isPermaLink="true">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
+      <pubDate>Fri, 21 Aug 2026 13:21:11 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>HTML Can Do That</title>
+      <link>https://chrisburnell.com/html-can-do-that/</link>
+      <guid isPermaLink="true">https://chrisburnell.com/html-can-do-that/</guid>
+      <pubDate>Wed, 19 Aug 2026 15:11:36 GMT</pubDate>
+      <category>Web Development</category>
+    </item>
+    <item>
+      <title>Managing AI Coding Costs at Scale</title>
+      <link>https://www.databricks.com/blog/managing-ai-coding-costs-scale</link>
+      <guid isPermaLink="true">https://www.databricks.com/blog/managing-ai-coding-costs-scale</guid>
+      <pubDate>Fri, 07 Aug 2026 18:25:17 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Stowaway – Take the window seat on any plane or satellite overhead</title>
+      <link>https://stowaway.live/</link>
+      <guid isPermaLink="true">https://stowaway.live/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:15:10 GMT</pubDate>
+      <category>Travel</category>
+    </item>
+    <item>
+      <title>QuadRF can spot drones and see WiFi through my wall</title>
+      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
+      <pubDate>Fri, 10 Jul 2026 15:59:53 GMT</pubDate>
+      <category>Networking</category>
+    </item>
+    <item>
+      <title>MicroVMs: Run isolated sandboxes with full lifecycle control</title>
+      <link>https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/</guid>
+      <pubDate>Tue, 23 Jun 2026 09:39:35 GMT</pubDate>
+      <category>Infrastructure</category>
+    </item>
+    <item>
+      <title>Show HN: CPU-only fast OCR for screenshots, images, PDFs, webpages</title>
+      <link>https://github.com/kouhxp/textsnap</link>
+      <guid isPermaLink="true">https://github.com/kouhxp/textsnap</guid>
+      <pubDate>Sun, 31 May 2026 08:32:26 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>I analysed 20 years of my chats</title>
+      <link>https://drobinin.com/posts/am-i-a-bad-friend/</link>
+      <guid isPermaLink="true">https://drobinin.com/posts/am-i-a-bad-friend/</guid>
+      <pubDate>Wed, 27 May 2026 23:31:13 GMT</pubDate>
+      <category>Data</category>
+    </item>
+    <item>
+      <title>Show HN: Open-source .docx editor library for building document apps</title>
+      <link>https://github.com/eigenpal/docx-editor</link>
+      <guid isPermaLink="true">https://github.com/eigenpal/docx-editor</guid>
+      <pubDate>Thu, 21 May 2026 20:23:37 GMT</pubDate>
+      <category>Software Development</category>
+    </item>
+    <item>
+      <title>My two-part desk setup (2025)</title>
+      <link>https://arslan.io/2025/11/18/my-two-part-desk-setup/</link>
+      <guid isPermaLink="true">https://arslan.io/2025/11/18/my-two-part-desk-setup/</guid>
+      <pubDate>Wed, 20 May 2026 21:21:14 GMT</pubDate>
+      <category>Workspace</category>
+    </item>
+    <item>
+      <title>Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?</title>
+      <link>https://news.ycombinator.com/item?id=48145524</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48145524</guid>
+      <pubDate>Fri, 15 May 2026 07:18:23 GMT</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>OpenData Vector: MIT-Licensed Vector Search on Object Storage</title>
+      <link>https://www.opendata.dev/blog/introducing-vector/</link>
+      <guid isPermaLink="true">https://www.opendata.dev/blog/introducing-vector/</guid>
+      <pubDate>Thu, 14 May 2026 18:19:08 GMT</pubDate>
+      <category>Databases</category>
+    </item>
+    <item>
+      <title>Local AI needs to be the norm</title>
+      <link>https://unix.foo/posts/local-ai-needs-to-be-norm/</link>
+      <guid isPermaLink="true">https://unix.foo/posts/local-ai-needs-to-be-norm/</guid>
+      <pubDate>Sun, 10 May 2026 17:19:28 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Empty Screenings – Finds AMC movie screenings with few or no tickets sold</title>
+      <link>https://walzr.com/empty-screenings</link>
+      <guid isPermaLink="true">https://walzr.com/empty-screenings</guid>
+      <pubDate>Tue, 05 May 2026 04:33:22 GMT</pubDate>
+      <category>Entertainment</category>
+    </item>
+    <item>
+      <title>Homebridge 2.0 is here, and it speaks Matter</title>
+      <link>https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums</guid>
+      <pubDate>Mon, 04 May 2026 16:12:25 GMT</pubDate>
+      <category>Smart Home</category>
+    </item>
+    <item>
+      <title>Show HN: Live Sun and Moon Dashboard with NASA Footage</title>
+      <link>https://www.lumara-space.app/</link>
+      <guid isPermaLink="true">https://www.lumara-space.app/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:25:48 GMT</pubDate>
+      <category>Space</category>
+    </item>
+    <item>
+      <title>Claude Design</title>
+      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
+      <pubDate>Fri, 17 Apr 2026 15:04:09 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>I run multiple $10K MRR companies on a $20/month tech stack</title>
+      <link>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</link>
+      <guid isPermaLink="true">https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</guid>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 GMT</pubDate>
+      <category>Founders</category>
+    </item>
+    <item>
+      <title>Show HN: Pardonned.com – A searchable database of US Pardons</title>
+      <link>https://news.ycombinator.com/item?id=47727960</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47727960</guid>
+      <pubDate>Sat, 11 Apr 2026 06:19:25 GMT</pubDate>
+      <category>Databases</category>
+    </item>
+    <item>
+      <title>Show HN: Figma for Coding Agents</title>
+      <link>https://getdesign.md/</link>
+      <guid isPermaLink="true">https://getdesign.md/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:20:45 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Every plane you see in the sky – you can now follow it from the cockpit in 3D</title>
+      <link>https://flight-viz.com/cockpit.html?lat=40.64&amp;lon=-73.78&amp;alt=3000&amp;hdg=220&amp;spd=130&amp;cs=DAL123</link>
+      <guid isPermaLink="true">https://flight-viz.com/cockpit.html?lat=40.64&amp;lon=-73.78&amp;alt=3000&amp;hdg=220&amp;spd=130&amp;cs=DAL123</guid>
+      <pubDate>Wed, 08 Apr 2026 18:10:52 GMT</pubDate>
+      <category>Travel</category>
+    </item>
+    <item>
+      <title>Ask HN: How do you handle marketing as a solo technical founder?</title>
+      <link>https://news.ycombinator.com/item?id=47667504</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47667504</guid>
+      <pubDate>Mon, 06 Apr 2026 21:36:47 GMT</pubDate>
+      <category>Marketing</category>
+    </item>
+    <item>
+      <title>Zooming UIs in 2026: Prezi, impress.js, and why I built something different</title>
+      <link>https://news.ycombinator.com/item?id=47665194</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47665194</guid>
+      <pubDate>Mon, 06 Apr 2026 18:53:15 GMT</pubDate>
+      <category>Design</category>
+    </item>
+    <item>
+      <title>Show HN: Weird Clocks</title>
+      <link>https://clocks.specr.net/</link>
+      <guid isPermaLink="true">https://clocks.specr.net/</guid>
+      <pubDate>Mon, 06 Apr 2026 15:46:26 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+  </channel>
+</rss>
