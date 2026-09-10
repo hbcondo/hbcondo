@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:50:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:06:17 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Searching for the best silicone USB cable</title>
+      <link>https://www.frankchiarulli.com/blog/best-silicone-usb-cable/</link>
+      <guid isPermaLink="true">https://www.frankchiarulli.com/blog/best-silicone-usb-cable/</guid>
+      <pubDate>Fri, 04 Sep 2026 20:06:17 GMT</pubDate>
+      <category>Hardware</category>
+    </item>
     <item>
       <title>Shutting down our public encrypted DNS</title>
       <link>https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47665194</guid>
       <pubDate>Mon, 06 Apr 2026 18:53:15 GMT</pubDate>
       <category>Design</category>
-    </item>
-    <item>
-      <title>Show HN: Weird Clocks</title>
-      <link>https://clocks.specr.net/</link>
-      <guid isPermaLink="true">https://clocks.specr.net/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:46:26 GMT</pubDate>
-      <category>Lifestyle</category>
     </item>
   </channel>
 </rss>
