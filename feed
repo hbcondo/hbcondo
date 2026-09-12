@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:37:21 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So you want to use OpenRouter?</title>
+      <link>https://mmoustafa.com/blog/so-you-want-to-use-openrouter/</link>
+      <guid isPermaLink="true">https://mmoustafa.com/blog/so-you-want-to-use-openrouter/</guid>
+      <pubDate>Wed, 09 Sep 2026 05:37:21 GMT</pubDate>
+      <category>AI</category>
+    </item>
     <item>
       <title>Searching for the best silicone USB cable</title>
       <link>https://www.frankchiarulli.com/blog/best-silicone-usb-cable/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47667504</guid>
       <pubDate>Mon, 06 Apr 2026 21:36:47 GMT</pubDate>
       <category>Marketing</category>
-    </item>
-    <item>
-      <title>Zooming UIs in 2026: Prezi, impress.js, and why I built something different</title>
-      <link>https://news.ycombinator.com/item?id=47665194</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47665194</guid>
-      <pubDate>Mon, 06 Apr 2026 18:53:15 GMT</pubDate>
-      <category>Design</category>
     </item>
   </channel>
 </rss>
