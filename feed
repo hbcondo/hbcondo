@@ -5,8 +5,22 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:27:50 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Personal Websites Are Coming Back</title>
+      <link>https://deadparrotbbs.com/why-personal-websites-are-coming-back/</link>
+      <guid isPermaLink="true">https://deadparrotbbs.com/why-personal-websites-are-coming-back/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:27:50 GMT</pubDate>
+      <category>Web Development</category>
+    </item>
+    <item>
+      <title>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</title>
+      <link>https://github.com/arnegiacomo/fugleramme</link>
+      <guid isPermaLink="true">https://github.com/arnegiacomo/fugleramme</guid>
+      <pubDate>Tue, 15 Sep 2026 12:31:10 GMT</pubDate>
+      <category>Hardware</category>
+    </item>
     <item>
       <title>So you want to use OpenRouter?</title>
       <link>https://mmoustafa.com/blog/so-you-want-to-use-openrouter/</link>
@@ -202,20 +216,6 @@
       <guid isPermaLink="true">https://getdesign.md/</guid>
       <pubDate>Fri, 10 Apr 2026 15:20:45 GMT</pubDate>
       <category>AI</category>
-    </item>
-    <item>
-      <title>Every plane you see in the sky – you can now follow it from the cockpit in 3D</title>
-      <link>https://flight-viz.com/cockpit.html?lat=40.64&amp;lon=-73.78&amp;alt=3000&amp;hdg=220&amp;spd=130&amp;cs=DAL123</link>
-      <guid isPermaLink="true">https://flight-viz.com/cockpit.html?lat=40.64&amp;lon=-73.78&amp;alt=3000&amp;hdg=220&amp;spd=130&amp;cs=DAL123</guid>
-      <pubDate>Wed, 08 Apr 2026 18:10:52 GMT</pubDate>
-      <category>Travel</category>
-    </item>
-    <item>
-      <title>Ask HN: How do you handle marketing as a solo technical founder?</title>
-      <link>https://news.ycombinator.com/item?id=47667504</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47667504</guid>
-      <pubDate>Mon, 06 Apr 2026 21:36:47 GMT</pubDate>
-      <category>Marketing</category>
     </item>
   </channel>
 </rss>
