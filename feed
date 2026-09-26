@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:55:00 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel now supports multiple values in a single cell</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395</link>
+      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395</guid>
+      <pubDate>Fri, 25 Sep 2026 20:55:00 GMT</pubDate>
+      <category>Data</category>
+    </item>
     <item>
       <title>Why Personal Websites Are Coming Back</title>
       <link>https://deadparrotbbs.com/why-personal-websites-are-coming-back/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47727960</guid>
       <pubDate>Sat, 11 Apr 2026 06:19:25 GMT</pubDate>
       <category>Databases</category>
-    </item>
-    <item>
-      <title>Show HN: Figma for Coding Agents</title>
-      <link>https://getdesign.md/</link>
-      <guid isPermaLink="true">https://getdesign.md/</guid>
-      <pubDate>Fri, 10 Apr 2026 15:20:45 GMT</pubDate>
-      <category>AI</category>
     </item>
   </channel>
 </rss>
