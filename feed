@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:04:57 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>America.gov</title>
+      <link>https://america.gov/</link>
+      <guid isPermaLink="true">https://america.gov/</guid>
+      <pubDate>Tue, 29 Sep 2026 14:04:57 GMT</pubDate>
+      <category>Government</category>
+    </item>
     <item>
       <title>Promising discoveries about the potential for life on one of Saturn’s icy moons</title>
       <link>https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
       <pubDate>Fri, 17 Apr 2026 15:04:09 GMT</pubDate>
       <category>AI</category>
-    </item>
-    <item>
-      <title>I run multiple $10K MRR companies on a $20/month tech stack</title>
-      <link>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</link>
-      <guid isPermaLink="true">https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</guid>
-      <pubDate>Sun, 12 Apr 2026 06:00:00 GMT</pubDate>
-      <category>Founders</category>
     </item>
   </channel>
 </rss>
