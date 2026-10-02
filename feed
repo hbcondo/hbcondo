@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 14:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:01:56 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RIP, vector database</title>
+      <link>https://turbopuffer.com/blog/rip-vector-database</link>
+      <guid isPermaLink="true">https://turbopuffer.com/blog/rip-vector-database</guid>
+      <pubDate>Thu, 01 Oct 2026 16:01:56 GMT</pubDate>
+      <category>Databases</category>
+    </item>
     <item>
       <title>America.gov</title>
       <link>https://america.gov/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://www.lumara-space.app/</guid>
       <pubDate>Tue, 28 Apr 2026 13:25:48 GMT</pubDate>
       <category>Space</category>
-    </item>
-    <item>
-      <title>Claude Design</title>
-      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
-      <pubDate>Fri, 17 Apr 2026 15:04:09 GMT</pubDate>
-      <category>AI</category>
     </item>
   </channel>
 </rss>
