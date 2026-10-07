@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:41:03 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I hired an illustrator to draw my house. Now it&apos;s my Home Assistant dashboard</title>
+      <link>https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my</link>
+      <guid isPermaLink="true">https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my</guid>
+      <pubDate>Wed, 07 Oct 2026 01:41:03 GMT</pubDate>
+      <category>Smart Home</category>
+    </item>
     <item>
       <title>RIP, vector database</title>
       <link>https://turbopuffer.com/blog/rip-vector-database</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums</guid>
       <pubDate>Mon, 04 May 2026 16:12:25 GMT</pubDate>
       <category>Smart Home</category>
-    </item>
-    <item>
-      <title>Show HN: Live Sun and Moon Dashboard with NASA Footage</title>
-      <link>https://www.lumara-space.app/</link>
-      <guid isPermaLink="true">https://www.lumara-space.app/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:25:48 GMT</pubDate>
-      <category>Space</category>
     </item>
   </channel>
 </rss>
