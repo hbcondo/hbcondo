@@ -5,8 +5,15 @@
     <link>https://www.amarkota.com/journal/</link>
     <description>A collection of articles and resources saved by Amar Kota.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:53:42 GMT</lastBuildDate>
     <atom:link href="https://www.amarkota.com/feed" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac at any scale</title>
+      <link>https://namespace.so/blog/mac-at-any-scale</link>
+      <guid isPermaLink="true">https://namespace.so/blog/mac-at-any-scale</guid>
+      <pubDate>Tue, 03 Nov 2026 14:53:42 GMT</pubDate>
+      <category>Hardware</category>
+    </item>
     <item>
       <title>Casio Watches of the 1980s</title>
       <link>https://www.casio.com/us/watches/50th/Heritage/1980s/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://www.opendata.dev/blog/introducing-vector/</guid>
       <pubDate>Thu, 14 May 2026 18:19:08 GMT</pubDate>
       <category>Databases</category>
-    </item>
-    <item>
-      <title>Local AI needs to be the norm</title>
-      <link>https://unix.foo/posts/local-ai-needs-to-be-norm/</link>
-      <guid isPermaLink="true">https://unix.foo/posts/local-ai-needs-to-be-norm/</guid>
-      <pubDate>Sun, 10 May 2026 17:19:28 GMT</pubDate>
-      <category>AI</category>
     </item>
   </channel>
 </rss>
